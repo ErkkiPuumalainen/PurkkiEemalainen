@@ -1,4 +1,4 @@
-GitHub sivusto Jekyll teemalla
+GitHub sivusto Jekyll teemalla / Tyyli: "minimal"
 ## Tervetuloa GitHub Pages-sivustolleni.
 Täältä löytyvät tehtäpälautukset:
 
