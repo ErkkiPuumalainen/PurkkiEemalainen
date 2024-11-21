@@ -6,7 +6,7 @@ Täältä löytyvät tehtäpälautukset:
 - [Viikko 1](Viikko1.html) 
 - [Viikko 2](Viikko2.md) 
 - [Viikko 3](Viikko3/)
-- Viikko 4
+- [Viikko 4](Viikko4.html)
 - Viikko 5
 - Viikko 6
 - Harkkatyö
